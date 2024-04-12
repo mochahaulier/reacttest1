@@ -7,7 +7,7 @@ Using Javascript, HTML, and (S)CSS.
 
 ## Screenshots
 
-![ReactTest1 GUI gif](reacttest1.gif)
+![ReactTest1 GUI gif](tttreact.gif)
 
 
 # TTT2
