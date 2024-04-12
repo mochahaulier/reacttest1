@@ -1,3 +1,17 @@
+# ReactTest1
+
+A quick test of developing in React by implementing a simple version of Tictactoe, from AngularTest1.
+
+Using Javascript, HTML, and (S)CSS.
+
+
+## Screenshots
+
+![ReactTest1 GUI gif](reacttest1.gif)
+
+
+# TTT2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
